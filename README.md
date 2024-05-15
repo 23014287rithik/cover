@@ -1,6 +1,6 @@
 # Ex.06 Book Front Cover Page Design
 ## Date: 10.5.2024
-## Name: rithik v
+## Name: Rithik v
 ## Reg.no: 212223230171
 ## Department: AI&DS
 
@@ -102,14 +102,15 @@ Publish the website in the LocalHost.
 
 </html>
 
-
+```
 
 
 
 
 ## OUTPUT:
 
-![Screenshot 2024-05-14 111557](https://github.com/23014287rithik/cover/assets/150985832/d0846467-4a1b-4dbc-b557-d8f7a391bd8f)
+![Screenshot 2024-05-14 114006](https://github.com/23014287rithik/cover/assets/150985832/ac9e942a-363f-4bfb-9501-e4cbc872ab66)
+
 
 
 ## RESULT:
